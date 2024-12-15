@@ -16,8 +16,8 @@
 - Received a **100% college scholarship for excellence**
 
 ## 🌐 Social Links:
-- 🌟 [LinkedIn](https://linkedin.com/in/your-profile-link)
-- 🐙 [GitHub](https://github.com/AdamNgazzou)
+- 🌟 [LinkedIn](https://www.linkedin.com/in/adam-ngazzou/)
+- 🐙 [Email](adem.ngazzou@horizon-university.tn)
 
 ## 📢 Let's Collaborate!
 Looking for new opportunities, especially in **web development** and **full-stack projects**. Reach out if you want to build something amazing together!
