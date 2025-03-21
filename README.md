@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamNgazzou&show_icons=true&theme=radical)  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdamNgazzou&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamNgazzou&show_icons=true&theme=radical)   ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdamNgazzou&theme=radical)  
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AdamNgazzou&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ## 🌐 Social Links:
