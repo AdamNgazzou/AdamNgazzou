@@ -24,12 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamNgazzou&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdamNgazzou&margin-w=15&theme=radical" alt="GitHub Trophy" />
-
-</p>
-
 ## 🌐 Social Links  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-ngazzou/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adem.ngazzou@horizon-university.tn)  
