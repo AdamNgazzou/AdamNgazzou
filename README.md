@@ -26,7 +26,8 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdamNgazzou&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdamNgazzou&margin-w=15&theme=radical" alt="GitHub Trophy" />
+
 </p>
 
 ## 🌐 Social Links  
