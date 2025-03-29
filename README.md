@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack  
 
-<table>
+<center><table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
     <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></td>
@@ -32,7 +32,7 @@
     <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></td>
   </tr>
 </table>
-
+</center>
 
 ## 📊 GitHub Stats  
 
