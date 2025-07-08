@@ -3,7 +3,7 @@
 🎓 **About Me:**  
 - 💻 **Student & Software Developer** passionate about web technologies and problem-solving.  
 - ⚡ **Athlete** with a disciplined and active lifestyle.  
-- 🧑‍💻 **LeetCode Enthusiast** - solved **160+ problems**.  
+- 🧑‍💻 **LeetCode Enthusiast** - solved **180+ problems**.  
 - 🏆 **100% College Scholarship** for excellence.  
 - 🚀 **Open to collaborations** in web and full-stack development!  
 
